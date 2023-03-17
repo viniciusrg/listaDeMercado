@@ -1,0 +1,9 @@
+.cardCompras{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 350px;
+    padding: 1rem;
+    box-shadow: var(--sombra);
+    border-radius: .5rem;
+}

@@ -1,0 +1,21 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--cor-primaria);
+}
+
+.cabecalho h1{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.cabecalho button{
+    background-color: var(--cor-secundaria);
+    border: 2px solid var(--cor-secundaria);
+    border-radius: .5rem;
+    color: var(--cor-fundo);
+    font-size: 1.2rem;
+    padding: .5rem 1rem;
+
+}

@@ -1,0 +1,6 @@
+.listaDeCompras{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 2rem 0rem;
+}
